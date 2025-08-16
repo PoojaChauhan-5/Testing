@@ -1,2 +1,2 @@
 # Testing
-This is a Git &amp; Github class
+This is a Git &amp; Github class.
